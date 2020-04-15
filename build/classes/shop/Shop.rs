@@ -1,0 +1,2 @@
+shop.ColorCheckBoxWait$CheckBoxListener
+shop.ColorCheckBoxWait
